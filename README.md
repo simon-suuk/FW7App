@@ -1,2 +1,2 @@
-# pgFW7App
-This project uses phonegap and Framework7 - an open source mobile HTML framework to develop hybrid mobile apps or web apps with iOS &amp; Android native look and feel
+# cam2
+A camera project that uses Apache Cordova to help you build an app that targets multiple mobile platforms: Android, iOS, and Windows Phone.
