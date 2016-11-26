@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:vs="http://schemas.microsoft.com/appx/2014/htmlapps" id="io.cordova.myapp7223c1" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" defaultlocale="en-US">
-  <name>FW7App</name>
+<widget xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:vs="http://schemas.microsoft.com/appx/2014/htmlapps" id="io.cordova.ssb_wantin" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" defaultlocale="en-US">
+  <name>Wantin</name>
   <description>This project uses Framework7 - an open source mobile HTML framework to develop hybrid mobile apps or web apps with iOS & Android native look and feel</description>
   <author href="http://cordova.io" email="dev@cordova.apache.org">Apache Cordova Team </author>
   <content src="index.html" />
